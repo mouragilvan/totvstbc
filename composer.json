@@ -1,5 +1,5 @@
 {
-    "name": "totvstbc/php",
+    "name": "mouratotvs/php",
     "description": "Biblioteca para integrar via Soap do Totvs RM",
     "type": "library",
     "version":"1.0",
