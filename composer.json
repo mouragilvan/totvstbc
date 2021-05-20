@@ -1,0 +1,22 @@
+{
+    "name": "totvstbc/php",
+    "description": "Biblioteca para integrar via Soap do Totvs RM",
+    "type": "library",
+    "version":"1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gilvan Moura",
+            "email": "gilvan.moura@outlook.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Totvs\\":"src/"
+        }
+    },
+    "require": {
+        "php": "^7.1.3"
+    },
+    "minimum-stability": "dev"
+}
